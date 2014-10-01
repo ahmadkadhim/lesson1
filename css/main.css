@@ -19,9 +19,24 @@ textarea {
 }
 
 html {
-    font-size: 1em;
+    font-size: 24px;
     line-height: 1.4;
 }
+
+
+.container {
+    font-family: 'Montserrat';
+    font-size: 1em;
+    width: 30em;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Merriweather';
+}
+
+
 
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
